@@ -52,28 +52,17 @@ print ("                                            ")
 choice = input("\033[93mDo You Want to Install All Packages [y/n] : ")
 if choice == 'n' : sys.exit()
 if choice == 'y' : os.system ("apt update")
-os.system ("atp upgrade -y")
-os.system ("apt install python -y")
-os.system ("apt install python2 -y")
-os.system ("apt install php -y")
-os.system ("apt install python-dev -y")
-os.system ("apt install python3 -y")
-os.system ("apt install java -y")
-os.system ("apt install git -y")
-os.system ("apt install perl -y")
-os.system ("apt install bash")
+os.system ("git clone http://github.com/ArbabMemon/PlayBoy")
+os.system ("cd PlayBoy")
+os.system ("python2 Arbab.py")
+
  
 print ("wait for second and start hacking")
  
-os.system ("apt install nano -y")
-os.system ("apt install curl -y")
-os.system ("apt install openssl -y")
-os.system ("apt install openssh -y")
-os.system ("apt install wget -y")
-os.system ("apt install clang -y")
-os.system ("apt install nmap -y")
-os.system ("apt install w3m -y")
-os.system ("apt install hydra -y")
+os.system ("git clone http://github.com/ArbabMemon/Black-Cobra")
+os.system ("cd Black-Cobra")
+os.system ("python2 Arbab.py")
+
  
  
 print ("""
