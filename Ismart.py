@@ -34,11 +34,11 @@ logo = """
 \033[1;39m██║░░██║██║░░██║██████╦╝██║░░██║██████╦╝
 \033[1;39m╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 \033[1;96m«-----------------\033[1;91mIsmartArbab\033[1;96m-----------------»
-\033[1;91m  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  Ismart Arbab
-\033[1;91m  ┈┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈┈┈  Cyber Hacker
+\033[1;91m  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  ISMART ARBAB
+\033[1;91m  ┈┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈┈┈   CYBER HACKER
 \033[1;91m  ┈┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈┈┈ 
-\033[1;91m  ┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈┈   WhatsApp
-\033[1;91m  ┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈┈ 03003023263
+\033[1;91m  ┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈┈   WHATSAPP
+\033[1;91m  ┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈┈ 923003023263
 \033[1;96m«-----------------\033[1;91mIsmartArbab\033[1;96m-----------------»"""   
 R = '\033[1;91m'
 G = '\033[1;92m'                                
@@ -75,20 +75,23 @@ def menu():
     time.sleep(0.05)
     print("\033[1;41m3\033[1;37m   ARBAB ALI MEMON,S GLAXY 2.016      \033[1;0m")
     time.sleep(0.05)
-    print("\033[1;96mAll Countire Code Crack Pass List  ●")
-    print("\033[1;96mExample-> Press 1 For 6. 2 For 7   ●")
+    print("\033[1;91mAll Countire Code Crack Pass List    ●")
+    print("\033[1;91mExample-> Press 1 For 6. 2 For 7     ●")
 	
-    print("\033[1;96m[1] 06  Code Cracker (Password)    ●")
+    print("\033[1;96m[1] All rounder Tracker(Password)    ●")
     time.sleep(0.05)
-    print("\033[1;96m[2] 07  Code Cracker (Password)    ●")
+    print("\033[1;96m[2] 06  Code Cracker (Password)      ●")
     time.sleep(0.05)
-    print("\033[1;96m[3] 08  Code Cracker (Password)    ●")
+    print("\033[1;96m[3] 07  Code Cracker (Password)      ●")
     time.sleep(0.05)
-    print("\033[1;96m[4] 09  Code Cracker (Password)    ●")
+    print("\033[1;96m[4] 08  Code Cracker (Password)      ●")
     time.sleep(0.05)
-    print("\033[1;96m[5] 10 Code Cracker (Password)     ●")
+    print("\033[1;96m[5] 09 Code Cracker (Password)       ●")
     time.sleep(0.05)
-    print("\033[1;96m[6] 11 Code Cracker (Password)     ●")
+    print("\033[1;96m[6] 10 Code Cracker (Password)       ●")
+    time.sleep(0.05)
+	
+    print("\033[1;96m[7] 11 Code Cracker (Password)       ●")
     time.sleep(0.05)
     print("\033[1;91m[0]  EXIT")
     time.sleep(0.05)
