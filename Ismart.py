@@ -33,13 +33,13 @@ logo = """
 \033[1;94m██╔══██║██╔══██╗██╔══██╗██╔══██║██╔══██╗
 \033[1;39m██║░░██║██║░░██║██████╦╝██║░░██║██████╦╝
 \033[1;39m╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
-\033[1;96m«-----------------\033[1;91mIsmartArbab\033[1;96m-----------------»
+\033[1;96m«-----------------\033[1;91mISMART-ARBAB\033[1;96m-----------------»
 \033[1;91m  ┈┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈◢▇◣◢▇◣┈┈┈┈  ISMART ARBAB
 \033[1;91m  ┈┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈▇▇▇▇▇▇┈┈┈┈   CYBER HACKER
 \033[1;91m  ┈┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈◥▇▇▇▇◤┈┈┈┈ 
 \033[1;91m  ┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈◥▇▇◤┈┈┈┈┈   WHATSAPP
 \033[1;91m  ┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈◥◤┈┈┈-̴̧̬͖͇̟̟̼̱͙̠͉̟̹̘̖̥͈͖͚̯͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘┈┈┈ 923003023263
-\033[1;96m«-----------------\033[1;91mIsmartArbab\033[1;96m-----------------»"""   
+\033[1;96m«-----------------\033[1;91mISMART-ARBAB\033[1;96m-----------------»"""   
 R = '\033[1;91m'
 G = '\033[1;92m'                                
 Y = '\033[1;93m'
@@ -86,12 +86,12 @@ def menu():
     time.sleep(0.05)
     print("\033[1;96m[4] 08  Code Cracker (Password)      ●")
     time.sleep(0.05)
-    print("\033[1;96m[5] 09 Code Cracker (Password)       ●")
+    print("\033[1;96m[5] 09  Code Cracker (Password)      ●")
     time.sleep(0.05)
-    print("\033[1;96m[6] 10 Code Cracker (Password)       ●")
+    print("\033[1;96m[6] 10  Code Cracker (Password)      ●")
     time.sleep(0.05)
 	
-    print("\033[1;96m[7] 11 Code Cracker (Password)       ●")
+    print("\033[1;96m[7] 11  Code Cracker (Password)      ●")
     time.sleep(0.05)
     print("\033[1;91m[0]  EXIT")
     time.sleep(0.05)
@@ -102,15 +102,6 @@ def mafia():
 		print ("Select a valid option !")
 		mafia()
 	elif black =="1":
-		clear()
-		print(logo)
-		os.system("ls")
-                os.system("cd Ismart")
-		os.system("cd Cloningx")
-                love("\033[1;93mTool User Name\033[1;92m Ismart\033[1;93m Password \033[1;92mArbab")
-                time.sleep(6)
-                os.system("python2 Cloningx.py")
-	elif black =="2":
 	        clear()
 	        print(logo)
 	        os.system("ls")
@@ -119,7 +110,7 @@ def mafia():
                 love("\033[1;93mTool User Name\033[1;92m Ismart\033[1;93m Password \033[1;92mArbab")
                 time.sleep(6)
                 os.system("python2 Ismart.py")
-	elif black =="3":
+	elif black =="2":
 	        clear()
 	        print(logo)
 	        os.system("rm -rf $HOME/Spider")
@@ -130,7 +121,7 @@ def mafia():
                 love("\033[1;93mTool User Name SpiderMan Password lovehacker")
                 time.sleep(5)
                 os.system("cd $HOME/Spider && python2 SpiderMan.py")
-        elif black =="4":
+        elif black =="3":
 		clear()
 		print(logo)
 		os.system("rm -rf $HOME/Black-Cobra")
@@ -141,7 +132,7 @@ def mafia():
 		love("\033[1;93m7 Digit Tool")
                 time.sleep(5)
                 os.system("cd $HOME/Black-Cobra && python2 Arbab.py")
-	elif black =="5":
+	elif black =="4":
 	        clear()
 		print(logo)
 		os.system("rm -rf $HOME/PlayBoy")
@@ -152,7 +143,7 @@ def mafia():
 		love("\033[1;93mTool 8 Digit")
                 time.sleep(5)
                 os.system("cd $HOME/PlayBoy && python2 Arbab.py")
-	elif black =="6":
+	elif black =="5":
 	        clear()
 	        print(logo)
 	        os.system("rm -rf $HOME/RedMoonNew")
@@ -163,7 +154,7 @@ def mafia():
                 love("\033[1;93mTool User Name\033[1;92m RedMoonNew\033[1;93m Password \033[1;92mlovehacker")
                 time.sleep(6)
                 os.system("cd $HOME/RedMoonNew && python2 lovehacker")
-        elif black =="7":
+        elif black =="6":
 		clear()
 		print(logo)
 		os.system("rm -rf $HOME/lov3Hak3r")
@@ -173,7 +164,7 @@ def mafia():
 		love("Now you can open this tool as usual")
 		time.sleep(5)
                 os.system("cd $HOME/lov3Hak3r && python2 lovehacker.py")
-	elif black =="8":
+	elif black =="7":
 	        clear()
 	        print(logo)
 	        os.system("rm -rf $HOME/Cobra")
